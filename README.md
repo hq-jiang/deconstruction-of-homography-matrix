@@ -2,9 +2,9 @@
 
 Demonstration of the effects of different types of transformation.
 
-Check blog posts:
-[Medium](https://medium.com/@insight-in-plain-sight/deconstructing-the-homography-matrix-35989ecc0b2)
-[Personal Homepage](https://hanqiu-jiang.science/blog_entries/04_deconstructing_homography.html)
+Check my blog posts with nice animations:  
+[Medium](https://medium.com/@insight-in-plain-sight/deconstructing-the-homography-matrix-35989ecc0b2)  
+[Personal Homepage](https://hanqiu-jiang.science/blog_entries/04_deconstructing_homography.html)  
 
 
 Usage:
